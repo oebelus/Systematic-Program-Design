@@ -7,3 +7,6 @@ These are some small projects for the Systematic Program Design course.
 
 ## [Water Lilies](./2-nenuphar.rkt)
 ![](./images/nenuphar.gif)
+
+## [Simple Text Editor](./3-editor.rkt)
+![](./images/editor.png)
