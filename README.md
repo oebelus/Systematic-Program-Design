@@ -10,3 +10,6 @@ These are some small projects for the Systematic Program Design course.
 
 ## [Simple Text Editor](./3-editor.rkt)
 ![](./images/editor.png)
+
+## [Spinning Bears](./4-spinning-bears.rkt)
+![](./images/bears.gif)
