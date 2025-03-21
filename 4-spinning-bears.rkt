@@ -1,9 +1,6 @@
 (require 2htdp/image)
 (require 2htdp/universe)
 
-; 
-
-
 ;; An Arbitrary number of Spinning Bears
 
 ;; Constants:
