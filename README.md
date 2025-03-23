@@ -16,3 +16,6 @@ These are some small projects for the Systematic Program Design course.
 
 ## [Concentric Circles](./5a-naturals/concentric-circles.rkt)
 ![](./images/concentric.png)
+
+## [Rain](./5b-helpers//making-rain-filtered.rkt)
+![](./images/rain.gif)
