@@ -13,3 +13,6 @@ These are some small projects for the Systematic Program Design course.
 
 ## [Spinning Bears](./4-spinning-bears.rkt)
 ![](./images/bears.gif)
+
+## [Concentric Circles](./5a-naturals/concentric-circles.rkt)
+![](./images/concentric.png)
