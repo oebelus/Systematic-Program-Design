@@ -19,3 +19,6 @@ These are some small projects for the Systematic Program Design course.
 
 ## [Rain](./5b-helpers//making-rain-filtered.rkt)
 ![](./images/rain.gif)
+
+## [Binary Search Tree Rendering](./6a-binary-search-trees/render-bst-w-lines.rkt)
+![bst](./images/bst.png)
