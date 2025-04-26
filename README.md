@@ -22,3 +22,7 @@ These are some small projects for the Systematic Program Design course.
 
 ## [Binary Search Tree Rendering](./6a-binary-search-trees/render-bst-w-lines.rkt)
 ![bst](./images/bst.png)
+
+## [Image Organizer]
+![](./images/images-dirs-r.png)
+![](./images/images-dirs.png)
